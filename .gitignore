@@ -1,0 +1,4 @@
+node_modules
+bower_components
+/.vs/1nn0va-events/DesignTimeBuild
+/.vs/1nn0va-events/v15/Server/sqlite3
