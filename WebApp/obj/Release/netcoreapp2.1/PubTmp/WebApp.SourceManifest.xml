@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\repos\1nn0vaEventSites\WebApp\obj\Release\netcoreapp2.1\PubTmp\Out\" />
+  <IisApp path="C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\PubTmp\Out\" />
 </sitemanifest>
