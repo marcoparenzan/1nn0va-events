@@ -14,7 +14,7 @@ namespace WebApp.Controllers
 
         public IActionResult Index()
         {
-            return Redirect(nameof(iotsatpn19));
+            return Redirect(nameof(azuresatpn19));
         }
 
         [Route("Heartbeat")]
@@ -41,8 +41,8 @@ namespace WebApp.Controllers
             return View();
         }
 
-        [Route("vasatpn19")]
-        public IActionResult vasatpn19()
+        [Route("vssatpn19")]
+        public IActionResult vssatpn19()
         {
             return View();
         }
