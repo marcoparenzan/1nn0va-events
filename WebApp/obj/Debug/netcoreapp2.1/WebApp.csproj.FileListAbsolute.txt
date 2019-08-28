@@ -52,3 +52,6 @@ C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\WebApp.Views.pdb
 C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
 C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
 C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CopyComplete
+C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\azuresatpn19.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\iotsatpn19.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\vssatpn19.g.cshtml.cs

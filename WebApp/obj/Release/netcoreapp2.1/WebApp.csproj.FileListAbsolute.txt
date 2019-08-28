@@ -46,11 +46,8 @@ C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\WebApp.Views.pdb
 C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\WebApp.dll
 C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\WebApp.pdb
 C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\WebApp.csproj.CopyComplete
-C:\repos\1nn0va-events\WebApp\bin\Release\netcoreapp2.1\appsettings.Development.json
-C:\repos\1nn0va-events\WebApp\bin\Release\netcoreapp2.1\appsettings.json
-C:\repos\1nn0va-events\WebApp\bin\Release\netcoreapp2.1\Properties\launchSettings.json
-C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\azuresatpn19.cshtml.g.cs
-C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\disatpn19.cshtml.g.cs
-C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Heartbeat.cshtml.g.cs
-C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\iotsatpn19.cshtml.g.cs
-C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\vssatpn19.cshtml.g.cs
+C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\azuresatpn19.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\disatpn19.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\Heartbeat.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\iotsatpn19.g.cshtml.cs
+C:\repos\1nn0va-events\WebApp\obj\Release\netcoreapp2.1\Razor\Views\Home\vssatpn19.g.cshtml.cs
